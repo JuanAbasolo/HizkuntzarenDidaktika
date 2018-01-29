@@ -115,3 +115,31 @@ Sánchez, J. M. a. (1991). *Un futuro para nuestro pasado. Claves de la recupera
 
 [^txepetx]: *Txepetx* da Jose Maria Sánchezen desizena. izenpetu ere bere desizenez egiten zuenez, hori ere erabiltzeko ohitura zabaldu da.
 
+---
+
+## Hizkuntzen ikas-irakaskuntzaz: aurrekariak
+
+```
+Ikuspegia+Metodoa+Teknika
+
+Gaitasun Komunikatiboa
+
+Estrategiak
+
+Trebetasunak
+
+Gogoeta metalinguistikoa
+```
+
+
+## Metodoak
+
+**Hizkuntza ulertzeko modua** -> **Irakasteko modua** -> **Metodologia ezberdinak**
+
+* Gramatika/itzulpenak
+* Gramatika/itzulpen metodoak
+* Eredu audiolinguala (egituren errepikapena, buruz ikasi)
+* Eredu kognoszitiboa (arauak)
+* Pragmatika eta eredu nozional/komunikaziozkoa: *The communicative approach*
+
+#
