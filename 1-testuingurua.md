@@ -11,15 +11,15 @@ Hizkuntzak nazioak eta estatuak baino askoz ere ugariagoak dira, eta ez datoz ba
 > El concepto de lengua no es preciso, ni las fronteras lingüísticas coinciden con las geográficas. En España se reconocen cuatro lenguas, pero hay otras más, desde el leonés, el bable o la fabla aragonesa, hasta las lenguas de los emigrantes o el caló. Así y todo, España es uno de los países lingüísticamente más homogéneos, pues tiene una lengua oficial y común, el español, que hablan y entienden la mayoría de sus ciudadanos.”  
 > _**Santiago Trancón**_ [https://www.lanuevacronica.com/lengua-nacion-estado](https://www.lanuevacronica.com/lengua-nacion-estado)
 
-:book: Idiazabal I. \(2003\) "Eskolaren kalitatea eta euskara" _BAT Soziolinguistika Aldizkaria_ 49,  2003, 195-199. ISSN: 1130-8435
+Idiazabal I. \(2003\) "Eskolaren kalitatea eta euskara" _BAT Soziolinguistika Aldizkaria_ 49,  2003, 195-199. ISSN: 1130-8435
 
-:book: Martí, F., Ortega, P., Idiazabal, I., Barreña, A., Juaristi, P., Junyent, C., … Amorrortu, E. \(2005\). _Hizkuntzen mundua. Munduko hizkuntzei buruzko txostena_. Bilbo: UPV/EHU.
+Martí, F., Ortega, P., Idiazabal, I., Barreña, A., Juaristi, P., Junyent, C., … Amorrortu, E. \(2005\). _Hizkuntzen mundua. Munduko hizkuntzei buruzko txostena_. Bilbo: UPV/EHU.
 
 ## Hizkuntzak zergatik galtzen dira?
 
 Hizkuntza inperialistak hedatzeak homogeneotasun linguistikoa ekarri du eta ez aniztasuna, izan ere hiztunek euren hizkuntza natiboak baztertu dituzte edota ez dituzte zaindu behar bezala, sarritan pentsatu baitute hizkuntza horiek garapen eta aurrerapen sozialaren nahiz pertsonalaren kontra doazela. Era honetan, bost kontinenteetako hizkuntza internazionalek beste zenbait baztertu eta desagertarazi dituzte.  \(Moreno-Cabrera, 2008\)
 
-:book:  Moreno-Cabrera, J. C. \(2008\). _El nacionalismo lingüístico: Una ideología destructiva_. Barcelona: Ediciones Península.
+Moreno-Cabrera, J. C. \(2008\). _El nacionalismo lingüístico: Una ideología destructiva_. Barcelona: Ediciones Península.
 
 ## Bost kontinenteetako hizkuntzen egoeraz
 
@@ -48,7 +48,7 @@ Lewisek 2005ean azaldu zuenez bada ezaugarri zerrenda bat kontuan hartu beharrek
 * Hiztunen jarrera
 * Hizkuntza dokumentatua egotea
 
-:book:   Lewis, M. P. \(2005\). Towards a categorization of endangerment of the world’s languages. _SIL International_.
+Lewis, M. P. \(2005\). Towards a categorization of endangerment of the world’s languages. _SIL International_.
 
 ## Hizkuntza gutxituak: Irakatsi beharraz gain, indarberritu ere egin behar dira
 
@@ -105,6 +105,8 @@ Hizkuntza bat **ikastean** hiru faktorek eragiten dutela dio, gainera, osagarria
 2. **Ezagutzak**: Hizkuntzaren funtzionamendua ulertzeko gaitasuna edo prozesua.
 3. **Erabilerak**.
 
+![](https://raw.githubusercontent.com/JuanAbasolo/HD/01-gaia/01_01-HD.png)
+
 ---
 
 ## Jarduera:
@@ -129,6 +131,8 @@ Trebetasunak
 Gogoeta metalinguistikoa
 ```
 
+![](https://raw.githubusercontent.com/JuanAbasolo/HD/01-gaia/01_02-HD.png)
+
 ## Metodoak
 
 **Hizkuntza ulertzeko modua** -&gt; **Irakasteko modua** -&gt; **Metodologia ezberdinak**
@@ -138,6 +142,8 @@ Gogoeta metalinguistikoa
 * Eredu audiolinguala \(egituren errepikapena, buruz ikasi\)
 * Eredu kognoszitiboa \(arauak\)
 * Pragmatika eta eredu nozional/komunikaziozkoa: _The communicative approach_
+
+![](https://raw.githubusercontent.com/JuanAbasolo/HD/01-gaia/01_03-HD.png)
 
 \#
 
