@@ -23,7 +23,7 @@ Hizkuntza inperialistak hedatzeak homogeneotasun linguistikoa ekarri du eta ez a
 
 ## Bost kontinenteetako hizkuntzen egoeraz
 
-[https://www.ethnologue.com/](https://www.ethnologue.com/)
+Iturria: [https://www.ethnologue.com/](https://www.ethnologue.com/)
 
 |  | Amerikak | Afrika | Europa | Asia | Ozeania |
 | --- | --- | --- | --- | --- | --- |
@@ -75,7 +75,7 @@ _Declaración Universal de Derechos Lingüísticos_
 Gaitasunak, jarduera komunikatiboak, mailak, deskribatu eta zehazten ditu helburuak, edukiak eta ebaluazio-irizpideen oinarri gisa.  
 Europako Kontseiluak hartutako erabakiak dira.
 
-### Ikastetxeko _Hizkuntza Proiektua_ren bidez:
+### Ikastetxeko \_Hizkuntza Proiektua\_ren bidez:
 
 Ikastetxeak duen identitatea kontuan izanik, hizkuntzaren aldetiko erabakiak hartzen dira bai alor pedagogikoan bai instituzionalean.
 
@@ -109,7 +109,7 @@ Hizkuntza bat **ikastean** hiru faktorek eragiten dutela dio, gainera, osagarria
 
 ## Jarduera:
 
-Irakurri _Txepetx_ek[^txepetx] dioena eta erantzun galderak. Horretarako aparteko laburpena dago Telegrameko kanaleko lehenengotariko dokumentua.
+Irakurri \_Txepetx\_ek[^txepetx] dioena eta erantzun galderak. Horretarako aparteko laburpena dago Telegrameko kanaleko lehenengotariko dokumentua.
 
 Sánchez, J. M. a. \(1991\). _Un futuro para nuestro pasado. Claves de la recuperación del Euskara y teoría social de las lenguas_ \(Libk. 1\). Donostia: Gipuzkoako Foru Aldundia. Berreskuratua [http://www.ehu.eus/ojs/index.php/ASJU/article/view/8593-\(e\)tik](http://www.ehu.eus/ojs/index.php/ASJU/article/view/8593-%28e%29tik)
 
