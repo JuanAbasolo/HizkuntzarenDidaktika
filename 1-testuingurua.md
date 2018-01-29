@@ -1,6 +1,72 @@
 # Testuingurua
 
+## Hizkuntza desberdinek egoera desberdinak
 
+XX. Mendea arte: Eskolan gehien irakatsi diren hizkuntzak, hizkuntza handiak izan dira (Idiazabal, 2003; Martí eta beste, 2005).
 
+XIX. Mendeko estatu mugen sorrerak hizkuntza gutxituen presentzia eskolan erabat baztertu zuen, eskolak hizkuntza nagusia eta bakarra irakatsI behar zuen. Nazio (kultura, hizkuntza, etnia)-estatu (ofiziala, administratiboa) kotzeptuak bateratu ziren.
 
+Hizkuntzak nazioak eta estatuak baino askoz ere ugariagoak dira, eta ez datoz bat lurraldeetako mugekin, gainera, hizkuntza asko estatu bat baino gehiagoko lurretan hitz egiten dira (euskara adibide argia da). 
+
+> El concepto de lengua no es preciso, ni las fronteras lingüísticas coinciden con las geográficas. En España se reconocen cuatro lenguas, pero hay otras más, desde el leonés, el bable o la fabla aragonesa, hasta las lenguas de los emigrantes o el caló. Así y todo, España es uno de los países lingüísticamente más homogéneos, pues tiene una lengua oficial y común, el español, que hablan y entienden la mayoría de sus ciudadanos.”
+> ***Santiago Trancón*** https://www.lanuevacronica.com/lengua-nacion-estado
+
+:book: Idiazabal I. (2003) "Eskolaren kalitatea eta euskara" *BAT Soziolinguistika Aldizkaria* 49,  2003, 195-199. ISSN: 1130-8435
+
+:book: Martí, F., Ortega, P., Idiazabal, I., Barreña, A., Juaristi, P., Junyent, C., … Amorrortu, E. (2005). *Hizkuntzen mundua. Munduko hizkuntzei buruzko txostena*. Bilbo: UPV/EHU.
+
+## Hizkuntzak zergatik galtzen dira?
+
+Hizkuntza inperialistak hedatzeak homogeneotasun linguistikoa ekarri du eta ez aniztasuna, izan ere hiztunek euren hizkuntza natiboak baztertu dituzte edota ez dituzte zaindu behar bezala, sarritan pentsatu baitute hizkuntza horiek garapen eta aurrerapen sozialaren nahiz pertsonalaren kontra doazela. Era honetan, bost kontinenteetako hizkuntza internazionalek beste zenbait baztertu eta desagertarazi dituzte.  (Moreno-Cabrera, 2008)
+
+:book:  Moreno-Cabrera, J. C. (2008). *El nacionalismo lingüístico: Una ideología destructiva*. Barcelona: Ediciones Península.
+
+## Bost kontinenteetako hizkuntzen egoeraz
+
+https://www.ethnologue.com/
+
+|                     | Amerikak | Afrika | Europa | Asia | Ozeania |
+| ------------------- | -------- | ------ | ------ | ---- | ------- |
+| Instituzionala      | 37       | 194    | 73     | 203  | 71      |
+| Garatzeko bidean    | 234      | 542    | 81     | 362  | 379     |
+| Indartsua           | 145      | 1026   | 31     | 856  | 421     |
+| Arazoduna           | 309      | 245    | 50     | 693  | 234     |
+| Desagertzeko zorian | 339      | 131    | 51     | 187  | 208     |
+
+Testigantza batzuk Nathional Geographic-eko erreportai [honetan](http://www.nationalgeographic.com.es/mundo-ng/grandes-reportajes/lenguas-peligro-extincion_6174/26)
+
+## Hizkuntzen egoera eta hizkuntzen didaktikak
+
+Lewisek 2005ean azaldu zuenez bada ezaugarri zerrenda bat kontuan hartu beharrekoa:
+
+* Hizkuntzaren transmisioa edo ondorengoetaratzea
+* Hiztun kopuru absolutua
+* Hiztun-portzentajea
+* Hizkuntzaren erabilera-eremu berrien sorrera
+* Alfabetatzerako eta hezkuntzarako materialak egotea (gramatikak, hiztegiak, idatzizko literatura, hedabideak…)
+* Gobernu eta erakundeen babesa
+* Hiztunen jarrera
+* Hizkuntza dokumentatua egotea
+
+:book:   Lewis, M. P. (2005). Towards a categorization of endangerment of the world’s languages. *SIL International*.
+
+## Hizkuntza gutxituak: Irakatsi beharraz gain, indarberritu ere egin behar dira 
+
+**UNESCO** : http://www.unesco.org/languages-atlas/es/atlasmap.html
+
+*Carta Europea de las Lenguas Minoritarias o Regionales*:
+
+>  “INSTRUMENTO de ratificación de la Carta Europea de las Lenguas Regionales o Minoritarias, hecha en Estrasburgo el 5 de noviembre de 1992.
+>
+> Los Estados miembros del Consejo de Europa, signatarios de la presente Carta, Considerando que la finalidad del Consejo de Europa es conseguir una unión más estrecha entre sus miembros, en  articular para salvaguardar y promover los ideales y principios que son su patrimonio común;  Considerando que la protección de las lenguas regionales o minoritarias históricas de Europa, de las que algunas corren el riesgo de desaparecer con el tiempo, contribuye al mantenimiento y al desarrollo de las tradiciones y la riqueza culturales de Europa.” 
+>
+> *BOE, 2001*
+
+*Declaración Universal de Derechos Lingüísticos*
+
+> La Declaración es un texto necesario, tal como manifiestan sus Preliminares, para «corregir los desequilibrios lingüísticos de manera que aseguren el respeto y el pleno despliegue de todas las lenguas y que establezcan los principios de una paz lingüística planetaria justa y equitativa, como factor principal de la convivencia social».
+>
+> La propia voluntad de universalismo de la Declaración comporta la corrección de los desequilibrios para que se asegure el respeto y el pleno desarrollo de todas las lenguas.  
+>
+> *1996, Bartzelona*
 
