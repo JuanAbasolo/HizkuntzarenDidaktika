@@ -58,9 +58,9 @@ Lewisek 2005ean azaldu zuenez bada ezaugarri zerrenda bat kontuan hartu beharrek
 
 >  “INSTRUMENTO de ratificación de la Carta Europea de las Lenguas Regionales o Minoritarias, hecha en Estrasburgo el 5 de noviembre de 1992.
 >
-> Los Estados miembros del Consejo de Europa, signatarios de la presente Carta, Considerando que la finalidad del Consejo de Europa es conseguir una unión más estrecha entre sus miembros, en  articular para salvaguardar y promover los ideales y principios que son su patrimonio común;  Considerando que la protección de las lenguas regionales o minoritarias históricas de Europa, de las que algunas corren el riesgo de desaparecer con el tiempo, contribuye al mantenimiento y al desarrollo de las tradiciones y la riqueza culturales de Europa.” 
+>  Los Estados miembros del Consejo de Europa, signatarios de la presente Carta, Considerando que la finalidad del Consejo de Europa es conseguir una unión más estrecha entre sus miembros, en  articular para salvaguardar y promover los ideales y principios que son su patrimonio común;  Considerando que la protección de las lenguas regionales o minoritarias históricas de Europa, de las que algunas corren el riesgo de desaparecer con el tiempo, contribuye al mantenimiento y al desarrollo de las tradiciones y la riqueza culturales de Europa.” 
 >
-> *BOE, 2001*
+>  *BOE, 2001*
 
 *Declaración Universal de Derechos Lingüísticos*
 
@@ -69,4 +69,49 @@ Lewisek 2005ean azaldu zuenez bada ezaugarri zerrenda bat kontuan hartu beharrek
 > La propia voluntad de universalismo de la Declaración comporta la corrección de los desequilibrios para que se asegure el respeto y el pleno desarrollo de todas las lenguas.  
 >
 > *1996, Bartzelona*
+
+### Europako Erreferentzia Marko Bateratuak:
+
+Gaitasunak, jarduera komunikatiboak, mailak, deskribatu eta zehazten ditu helburuak, edukiak eta ebaluazio-irizpideen oinarri gisa.
+Europako Kontseiluak hartutako erabakiak dira.
+
+### Ikastetxeko *Hizkuntza Proiektua*ren bidez:
+
+Ikastetxeak duen identitatea kontuan izanik, hizkuntzaren aldetiko erabakiak hartzen dira bai alor pedagogikoan bai instituzionalean.
+
+#### Adibideak:
+
+https://www.youtube.com/watch?v=iFEjAhnv3ys
+
+http://elblogdemiguelcalvillo.blogspot.com.es/2011/02/video-promocional-del-proyecto.html
+
+http://elblogdemiguelcalvillo.blogspot.com.es/2011/04/proyecto-linguistico-de-centro-el-video.html
+
+### Hizkuntza Programak
+
+Irakasleek ikasleekin egin beharreko **jarduerak** dira, eta betebeharretako bat zentroan dauden hizkuntza ezberdinen gaineko kontzientzia piztea izan daiteke.
+
+### Munduko eskola batzuetan nolako programez erantzuten zaie hizkuntza gutxituei?
+
+Adibide bi ikusi ditzakegu hurrengo [bideoan](https://youtu.be/nPUMvUBuX00), bata Hego Afrikako errepublikan eta bestea Mazedoniako errepublikan.
+
+## Irakaskuntzan
+
+Txepetx
+
+Hizkuntza bat **ikastean** hiru faktorek eragiten dutela dio, gainera, osagarriak dira eta lotura dute:
+
+1. **Motibazioak**: Hizkuntza bat ikastera daramaten arrazoi, nahi edo interesak
+2. **Ezagutzak**: Hizkuntzaren funtzionamendua ulertzeko gaitasuna edo prozesua.
+3. **Erabilerak**.
+
+---
+
+## Jarduera:
+
+Irakurri *Txepetx*ek[^txepetx] dioena eta erantzun galderak. Horretarako aparteko laburpena dago Telegrameko kanaleko lehenengotariko dokumentua.
+
+Sánchez, J. M. a. (1991). *Un futuro para nuestro pasado. Claves de la recuperación del Euskara y teoría social de las lenguas* (Libk. 1). Donostia: Gipuzkoako Foru Aldundia. Berreskuratua http://www.ehu.eus/ojs/index.php/ASJU/article/view/8593-(e)tik
+
+[^txepetx]: *Txepetx* da Jose Maria Sánchezen desizena. izenpetu ere bere desizenez egiten zuenez, hori ere erabiltzeko ohitura zabaldu da.
 
