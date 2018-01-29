@@ -8,7 +8,7 @@ Aurton ikasgaiarekin hasten ari naizenez, oinarritzat bide hau urratu duten irak
 
 ## Ikasgaia, haren egitura eta liburuarena.
 
-Ikasgaiaren aurkezpena:
+Ikasgaiko aurkezpena: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/JuanAbasolo/HD/master?grs=github&t=white)
 
 Ohar-liburu honek ikasgaiak berak izan behar duen egiturari heldu nahi dio. Horrela, aurkezpen honetaz gain, [0 kapitulu](/chapter1.md) bat ere badu, eskolako web orritik bertatik hartutako ikasgaiaren gida ofizialeko informazioaz osatua.
 
