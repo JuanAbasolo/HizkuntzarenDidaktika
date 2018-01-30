@@ -9,7 +9,7 @@ XIX. Mendeko estatu mugen sorrerak hizkuntza gutxituen presentzia eskolan erabat
 Hizkuntzak nazioak eta estatuak baino askoz ere ugariagoak dira, eta ez datoz bat lurraldeetako mugekin, gainera, hizkuntza asko estatu bat baino gehiagoko lurretan hitz egiten dira \(euskara adibide argia da\).
 
 > El concepto de lengua no es preciso, ni las fronteras lingüísticas coinciden con las geográficas. En España se reconocen cuatro lenguas, pero hay otras más, desde el leonés, el bable o la fabla aragonesa, hasta las lenguas de los emigrantes o el caló. Así y todo, España es uno de los países lingüísticamente más homogéneos, pues tiene una lengua oficial y común, el español, que hablan y entienden la mayoría de sus ciudadanos.”  
-> _**Santiago Trancón**_ [https://www.lanuevacronica.com/lengua-nacion-estado](https://www.lanuevacronica.com/lengua-nacion-estado)
+> _**Santiago Trancón**_ in [https://www.lanuevacronica.com/lengua-nacion-estado](https://www.lanuevacronica.com/lengua-nacion-estado)
 
 Idiazabal I. \(2003\) "Eskolaren kalitatea eta euskara" _BAT Soziolinguistika Aldizkaria_ 49,  2003, 195-199. ISSN: 1130-8435
 
