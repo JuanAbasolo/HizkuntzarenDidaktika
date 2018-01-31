@@ -98,7 +98,9 @@ Irakasleek ikasleekin egin beharreko **jarduerak **dira, eta betebeharretako bat
 
 ### Munduko eskola batzuetan nolako programez erantzuten zaie hizkuntza gutxituei?
 
-Adibide bi ikusi ditzakegu hurrengo [bideoan](https://youtu.be/nPUMvUBuX00), bata Hego Afrikako errepublikan eta bestea Mazedoniako errepublikan.
+Adibide bi ikusi ditzakegu hurrengo bideoan, bata Hego Afrikako errepublikan eta bestea Mazedoniako errepublikan.
+
+{% youtube src="https://youtu.be/nPUMvUBuX00" %}{% endyoutube %}
 
 ## Irakaskuntzan
 
@@ -118,7 +120,7 @@ Hizkuntza bat **ikastean **hiru faktorek eragiten dutela dio, gainera, osagarria
 
 ## Jarduera:
 
-Irakurri _Txepetx_ek[^1] dioena eta erantzun galderak. Horretarako aparteko laburpena dago, Telegrameko kanaleko lehenengotariko dokumentua edo [esteka honetan](https://github.com/JuanAbasolo/HD/blob/01-gaia/1_Txepetx_testuak.pdf).
+Irakurri *Txepetx*ek[^1] dioena eta erantzun galderak. Horretarako aparteko laburpena dago, Telegrameko kanaleko lehenengotariko dokumentua edo [esteka honetan](https://github.com/JuanAbasolo/HD/blob/01-gaia/1_Txepetx_testuak.pdf).
 
 ---
 
@@ -156,7 +158,7 @@ Gogoeta metalinguistikoa
 
 # Kapituluko erreferentziak
 
-Idiazabal I.\(2003\). Eskolaren kalitatea eta euskara._BAT Soziolinguistika Aldizkaria_49, 2003, 195-199. ISSN: 1130-8435
+Idiazabal I.(2003). Eskolaren kalitatea eta euskara._BAT Soziolinguistika Aldizkaria_49, 2003, 195-199. ISSN: 1130-8435
 
 Lewis, M. P.\(2005\). Towards a categorization of endangerment of the world’s languages._SIL International_.
 
@@ -168,5 +170,5 @@ Sánchez, J. M.\(1991\)._Un futuro para nuestro pasado. Claves de la recuperaci�
 
 
 
-[^1]: _Txepetx _da Jose Maria Sánchezen desizena. izenpetu ere bere desizenez egiten zuenez, hori ere erabiltzeko ohitura zabaldu da.
+[^1]: *Txepetx* da Jose Maria Sánchezen desizena. izenpetu ere bere desizenez egiten zuenez, hori ere erabiltzeko ohitura zabaldu da.
 
