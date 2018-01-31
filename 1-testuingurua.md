@@ -156,6 +156,8 @@ Gogoeta metalinguistikoa
 
 ![](https://raw.githubusercontent.com/JuanAbasolo/HD/01-gaia/01_03-HD.png)
 
+---
+
 # Kapituluko erreferentziak
 
 Idiazabal I.(2003). Eskolaren kalitatea eta euskara._BAT Soziolinguistika Aldizkaria_49, 2003, 195-199. ISSN: 1130-8435
@@ -167,8 +169,6 @@ Martí, F., Ortega, P., Idiazabal, I., Barreña, A., Juaristi, P., Junyent, C., 
 Moreno-Cabrera, J. C.\(2008\)._El nacionalismo lingüístico: Una ideología destructiva_. Barcelona: Ediciones Península.
 
 Sánchez, J. M.\(1991\)._Un futuro para nuestro pasado. Claves de la recuperación del Euskara y teoría social de las lenguas_\(Libk. 1\). Donostia: Gipuzkoako Foru Aldundia. Berreskuratua [http://www.ehu.eus/ojs/index.php/ASJU/article/view/8593](http://www.ehu.eus/ojs/index.php/ASJU/article/view/8593-%28e%29tik)-tik
-
-
 
 [^1]: *Txepetx* da Jose Maria Sánchezen desizena. izenpetu ere bere desizenez egiten zuenez, hori ere erabiltzeko ohitura zabaldu da.
 
