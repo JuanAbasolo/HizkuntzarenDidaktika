@@ -118,9 +118,9 @@ Hizkuntza bat **ikastean **hiru faktorek eragiten dutela dio, gainera, osagarria
 
 ---
 
-## Jarduera:
+## 1. jarduera:
 
-Irakurri *Txepetx*ek[^1] dioena eta erantzun galderak. Horretarako aparteko laburpena dago, Telegrameko kanaleko lehenengotariko dokumentua edo [esteka honetan](https://github.com/JuanAbasolo/HD/blob/01-gaia/1_Txepetx_testuak.pdf).
+- [ ] Irakurri *Txepetx*ek[^1] dioena eta erantzun galderak. Horretarako aparteko laburpena dago, Telegrameko kanaleko lehenengotariko dokumentua edo [esteka honetan](https://github.com/JuanAbasolo/HD/blob/01-gaia/1_Txepetx_testuak.pdf).
 
 ---
 
@@ -128,13 +128,9 @@ Irakurri *Txepetx*ek[^1] dioena eta erantzun galderak. Horretarako aparteko labu
 
 ```
 Ikuspegia+Metodoa+Teknika
-
 Gaitasun Komunikatiboa
-
 Estrategiak
-
 Trebetasunak
-
 Gogoeta metalinguistikoa
 ```
 
@@ -148,9 +144,9 @@ Gogoeta metalinguistikoa
 
 * Gramatika/itzulpen metodoak
 
-* Eredu audiolinguala\(egituren errepikapena, buruz ikasi\)
+* Eredu audiolinguala(egituren errepikapena, buruz ikasi\)
 
-* Eredu kognoszitiboa\(arauak\)
+* Eredu kognoszitiboa (arauak)
 
 * Pragmatika eta eredu nozional/komunikaziozkoa:_The communicative approach_
 
@@ -158,17 +154,25 @@ Gogoeta metalinguistikoa
 
 ---
 
+## 2. jarduera:
+
+- [ ] Landu Idiazabal & Manterola (2008) testua, bertako kontzeptu gakoak ulertze aldera.
+
+---
+
 # Kapituluko erreferentziak
 
-Idiazabal I.(2003). Eskolaren kalitatea eta euskara._BAT Soziolinguistika Aldizkaria_49, 2003, 195-199. ISSN: 1130-8435
+Idiazabal I.(2003). Eskolaren kalitatea eta euskara.*BAT Soziolinguistika Aldizkaria* 49, 2003, 195-199. ISSN: 1130-8435
+
+Idiazabal, I., & Manterola, I. (2009). Euskal eredu elebidunak, murgilketa eta hizkuntzen irakaskuntza bateratua: kontzeptuen berrikusketa. *Euskera*, 54, 2–1. Eskuragarri http://www.euskaltzaindia.net/dok/euskera/74632.pdf helbidean
 
 Lewis, M. P.\(2005\). Towards a categorization of endangerment of the world’s languages._SIL International_.
 
-Martí, F., Ortega, P., Idiazabal, I., Barreña, A., Juaristi, P., Junyent, C., … Amorrortu, E.\(2005\)._Hizkuntzen mundua. Munduko hizkuntzei buruzko txostena_. Bilbo: UPV/EHU.
+Martí, F., Ortega, P., Idiazabal, I., Barreña, A., Juaristi, P., Junyent, C., … Amorrortu, E.\(2005\).*Hizkuntzen mundua. Munduko hizkuntzei buruzko txostena*. Bilbo: UPV/EHU.
 
 Moreno-Cabrera, J. C.\(2008\)._El nacionalismo lingüístico: Una ideología destructiva_. Barcelona: Ediciones Península.
 
-Sánchez, J. M.\(1991\)._Un futuro para nuestro pasado. Claves de la recuperación del Euskara y teoría social de las lenguas_\(Libk. 1\). Donostia: Gipuzkoako Foru Aldundia. Berreskuratua [http://www.ehu.eus/ojs/index.php/ASJU/article/view/8593](http://www.ehu.eus/ojs/index.php/ASJU/article/view/8593-%28e%29tik)-tik
+Sánchez, J. M.\(1991\). *Un futuro para nuestro pasado. Claves de la recuperación del Euskara y teoría social de las lenguas* (Libk. 1). Donostia: Gipuzkoako Foru Aldundia. Berreskuratua [http://www.ehu.eus/ojs/index.php/ASJU/article/view/8593](http://www.ehu.eus/ojs/index.php/ASJU/article/view/8593-%28e%29tik)-tik
 
 [^1]: *Txepetx* da Jose Maria Sánchezen desizena. izenpetu ere bere desizenez egiten zuenez, hori ere erabiltzeko ohitura zabaldu da.
 
