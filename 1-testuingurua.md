@@ -86,7 +86,7 @@ Ikastetxeak duen identitatea kontuan izanik, hizkuntzaren aldetiko erabakiak har
 
 #### Adibideak:
 
-[https://www.youtube.com/watch?v=iFEjAhnv3ys](https://www.youtube.com/watch?v=iFEjAhnv3ys)
+{% youtube src="https://www.youtube.com/watch?v=iFEjAhnv3ys" %}{% endyoutube %}
 
 [http://elblogdemiguelcalvillo.blogspot.com.es/2011/02/video-promocional-del-proyecto.html](http://elblogdemiguelcalvillo.blogspot.com.es/2011/02/video-promocional-del-proyecto.html)
 
