@@ -158,6 +158,20 @@ Gogoeta metalinguistikoa
 
 - [ ] Landu Idiazabal & Manterola (2008) testua, bertako kontzeptu gakoak ulertze aldera.
 
+
+### Taldearen hizkuntz esperientzia
+
+Ikaskideen aurreko aurkezpena egin behar duzue aipatu testuko gako idiak kontuan izanda.
+
+#### Ebaluazio errubrika
+
+|                         | **Hobekuntza franko behar duen lana**    | **Lan nahikoa**                        | **Lan ona**                            | **Lan bikaina**                        |
+| ----------------------: | :--------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+|      **Taldeko lana** | Taldekideen			artean ez da elkarlanik egon eta lanean nabaritzen da | Kohesio			falta dago, lana taldekideen artean banatu dute baina oso zaila da			tokatu zaien zatiaz hitz egitea. | Lana			taldekideen artean banatu dute baina azken entsegua denen artean			egin dute. | Koordinazio			eta komunikazio handia dago, guztiek tokatu zaien zatia ondo egin			dute. |
+|             **Edukiak** | Edukiak			txarto hautau dituzte, txarto antolatuta daude eta errepikatuta | Edukiak			egokiak dira, baina edukiak hobeto antolatu daitezke | Edukiak			ondo aukeratu dituzte, ondo antolatuta daude eta ondo azalduta | Edukiak			ondo aukeratu dituzte, ondo antolatuta daude eta ondo azalduta. |
+| **Irudia** | Kolorea txarto aukeratu da, testu gehiegi, ikusteko arazoak. | Aurkezpena ondo ikusten da, baina itxusia da. | Argazkiak	 ondo aukeratu dira, testua orekatua da, ondo ikusten da. | Argazkiak	 ondo aukeratu dira, testua orekatua da, gainera, ikusten dena oso erakargarria da. |
+| **Ahozko aurkezpena** | Isilune handiak, testua falta da. Diapositibak nahasten dira. | Aurkezpena egokia da, baina denboretara egokitzeko arazoak. Ahozkera arazoak. | Aurkezpen egokia, denboretara ondo egokituta, ahozkera ona. | Aurkezpen egokia, denboretara ondo egokituta, ahozkera ona.	Gorpuzkerak,			aurpegikerak eta keinuek diskurtsoari indarra ematen diote. |
+
 ---
 
 # Kapituluko erreferentziak
