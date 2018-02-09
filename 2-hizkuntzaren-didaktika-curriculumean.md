@@ -8,7 +8,8 @@ Legeen bitartez eraikitzen da curriculumaren lehenengo zehaztapen maila. Kapitul
 
 Lege markoa matroysken antzera eregiten da, pausu bakoitzak jarraikortasuna behar du aurrekoarekiko. Euskal Herriko ikasgeletara iristen den legearen forma aurretiko beste lege batzuk moldatutakoa da.
 
-![Lege-markoa matroisken antzerakoa da](https://cdn.pixabay.com/photo/2018/02/04/23/01/ornament-3131097_960_720.jpg)
+![Legeen egiturak matryosken itxura hartzen du](/assets/ornament-3131097_960_720.jpg)
+[iturria](https://pixabay.com/en/ornament-matryoshka-babuschka-3131097/)
 
 Gure kasuan, UPV/EHU baskongadetako errealitateari begiratu behar dionez, Heziberri 2020 planak ezartzen duen errealitatea aztertuko dugu. Baina Euskal Herriko ikuspegi zabalago batetik ere begira genezaioke Ipar Euskal Herriko lege markoa edota Nafarroakora egokituta, dagozkien elementuak.
 
@@ -90,7 +91,7 @@ Orden ECD/65/2015, de 21 de enero, por la  que se describen las relaciones entre
 
 ## Oinarrizko konpetentzia giltzei buruzko proposamen arteko erlazioa [\*](http://www.hezkuntza.ejgv.euskadi.eus/contenidos/informacion/heziberri_2020/eu_erlazioa/adjuntos/oinarrizko_konpetentzia_giltzei_buruzko_proposamen_arteko_erlazioa.pdf)
 
-![EJ](./02_01-HD.png)
+![EJ](/assets/02_01-HD.png)
 
 ## Baskongadeei dagokien araudia
 
