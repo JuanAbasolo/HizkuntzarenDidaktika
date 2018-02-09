@@ -11,7 +11,7 @@ Lege markoa matroysken antzera eregiten da, pausu bakoitzak jarraikortasuna beha
 ![Legeen egiturak matryosken itxura hartzen du](/assets/ornament-3131097_960_720.jpg)
 [iturria](https://pixabay.com/en/ornament-matryoshka-babuschka-3131097/)
 
-Gure kasuan, UPV/EHU baskongadetako errealitateari begiratu behar dionez, Heziberri 2020 planak ezartzen duen errealitatea aztertuko dugu. Baina Euskal Herriko ikuspegi zabalago batetik ere begira genezaioke Ipar Euskal Herriko lege markoa edota Nafarroakora egokituta, dagozkien elementuak.
+Gure kasuan, UPV/EHUk baskongadetako errealitateari begiratu behar dionez, Heziberri 2020 planak ezartzen duen errealitatea aztertuko dugu. Baina Euskal Herriko ikuspegi zabalago batetik ere begira genezaioke Ipar Euskal Herriko lege markoa edota Nafarroakora egokituta, dagozkien elementuak.
 
 Gaur egungo paradigmatik ulertuta, hezkuntzaz aritzeak esan nahi du gaikuntzaz hitz egitea, gaitasunak garatzeari buruz jardutea.
 
