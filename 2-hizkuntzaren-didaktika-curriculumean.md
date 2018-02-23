@@ -1,5 +1,7 @@
 # Hizkuntza eta ageriko curriculuma
 
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/JuanAbasolo/HD/02-gaia?grs=github&t=moon)
+
 Hizkuntza eskolan tratatzeko erez ari garenean, kontuan izan behar dugu horren inguruan ereikitako lege ikuspegi osoa. Besteak beste, horren arabera sortu beharko duzuelako dena delako elementua oposizioak-eta egiteko.
 
 Curriculumez ari garenean hitz egin dezakegu eskola esperientziak eragindako bizipen/ikaskuntzez edota aurrez prestatutako ikaskuntza-ibilbiderako planez. Oraingo honetan bigarren horri buruz hausnartu behar dugu: Curriculum diseinuaz.
