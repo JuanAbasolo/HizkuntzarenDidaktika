@@ -14,9 +14,7 @@ Hizkuntzaren Didaktikaz, eta hainbat didaktikez, jarduteko orduan, elementu batz
 
 [Lehenengo kapituak](/1-testuingurua.md) kolpetzen dio Hizkuntzaren Didaktikaz ulertzeko orduan oinarrizko elementu baten azterketari, testuinguruari, hain zuzen ere; gorago aipatutako _nonbait_ horri.
 
-Bigarren kapituluak[^1] ageriko curriculumari heltzen dio, hots, eskola-irakaskuntzaren eta irakaskuntza arautuaren ardatzetako bati.
+Bigarren kapituluak ageriko curriculumari heltzen dio, hots, eskola-irakaskuntzaren eta irakaskuntza arautuaren ardatzetako bati.
 
 Hirugarren kapitulutik aurrera didaktika eta pedagogiako elementuei helduko diegu zuzenean: Nola irakatsi behar diren irakurketa, kontaketa eta idazketa aztertzen du **hirugarrenak**, **laugarrenak** hizkuntzen irakaskuntza estrategiei eta **bosgarrenak** hizkuntzen irakaskuntzaz aritzeko metodo eta ikuskerei.
-
-[^1]: Hemendik aurrera idazteko dago
 
