@@ -22,11 +22,13 @@ Gorago azaldu den moduan, irakurketari dagokion ikuskeratik emango zaio abioa ka
 
 PISA
 
-> ... se entiende por competencia lectora la capacidad de un individuo para comprender, utilizar y reflexionar sobre textos escritos, con el propósito de alcanzar sus objetivos personales, desarrollar su conocimiento y sus capacidades, y participar en la sociedad. *OECD, (2014:7) [\*](https://www.oecd.org/pisa/39730818.pdf)*
+> ... se entiende por competencia lectora la capacidad de un individuo para comprender, utilizar y reflexionar sobre textos escritos, con el propósito de alcanzar sus objetivos personales, desarrollar su conocimiento y sus capacidades, y participar en la sociedad.  
+*OECD, (2014:7) [+](https://www.oecd.org/pisa/39730818.pdf)*
 
 [PIRLS](https://en.wikipedia.org/wiki/Progress_in_International_Reading_Literacy_Study "Progress in International Reading Literacy Study (PIRLS)"):
 
-> La competencia lectora es la habilidad para comprender y utilizar las formas lingüísticas requeridas y/o valoradas por el individuo. Los lectores son capaces de construir significado a partir de una variedad de textos. Leen para aprender, para participar en las comunidades de lectores del ámbito escolar y de la vida cotidiana, y para su disfrute personal. *Ministerio de Educación y Ciencia (2007:19)*
+> La competencia lectora es la habilidad para comprender y utilizar las formas lingüísticas requeridas y/o valoradas por el individuo. Los lectores son capaces de construir significado a partir de una variedad de textos. Leen para aprender, para participar en las comunidades de lectores del ámbito escolar y de la vida cotidiana, y para su disfrute personal.  
+*Ministerio de Educación y Ciencia (2007:19)*
 
 Aurreko definizio honen oinarrian ideia hauek daude:
 
@@ -41,7 +43,8 @@ Aurreko definizio honen oinarrian ideia hauek daude:
 
 ### Irakurtzea ulertzea da
 
-> Leer es el proceso mediante el cual se comprende el texto escrito. *Solé (1987)*
+> Leer es el proceso mediante el cual se comprende el texto escrito.  
+*Solé (1987)*
 
 #### Irakurtze prozesuaren ezaugarriak
 
@@ -166,7 +169,7 @@ Horretarako proposamen didaktikoak aurkeztu zituen.
 
 Gaur egun, berriz,…
 
-{% youtube src="https://www.youtube.com/embed/lsHc3SWiWEQ" %}{% endyoutube %}
+{% youtube src="https://www.youtube.com/watch?v=lsHc3SWiWEQ" %}{% endyoutube %}
 
 Prácticas letradas contemporáneas por Daniel Cassany: la perspectiva sociocultural (10 min).
 
@@ -183,8 +186,7 @@ Fons Esteve (2004: 20)
 
 ##### Garatuta al dituzte ikasleek gaitasunak agintzen zaizkien testuak sortzeko?
 
-> Se escribe mucho pero se enseña poco a escribir... las prácticas explícitas de escritura, cuyo objetivo es incrementar las capacidades compositivas del alumnado, son escasas, breves y disciplinarias de lengua. 
-
+> Se escribe mucho pero se enseña poco a escribir... las prácticas explícitas de escritura, cuyo objetivo es incrementar las capacidades compositivas del alumnado, son escasas, breves y disciplinarias de lengua.  
 *Cassany, Luna, & Sanz (2000:128)*
 
 Egoera horri aurre egiteko zenbait proposamen sortu ziren ideia honetan oinarrituta:
@@ -218,16 +220,14 @@ Hizkuntzen irakaskuntzan ikuspegi eta metodo ezberdinak eraman dira praktikara e
 | Ikuspegi eta metodo alternatiboak | Erantzun fisiko Totala <br>Metodo Isila <br>Hizkuntzaren Ikaskuntza Komunitarioa <br>Sugestopedia <br>Adimen anitzak <br>Ikuspegi Lexikoa <br>Gaitasunetan Oinarritutako Hizkuntzen Irakaskuntza. | Gramatikaren irakaspenari emandako garrantzitik alde egin nahi zuten, eta ikasgeletan elkarrizketarako tartea zabaldu. |
 | Gaur egungo ikuspegi komunikatiboak | Hizkuntzaren Irakaskuntza Komunikatiboa, <br>Ikuspegi Naturala, <br>Hizkuntzaren Ikaskuntza Kooperatiboa,<br>Edukietan Oinarritutako Instrukzioa, <br>Atazetan Oinarritutako Hizkuntzaren Irakaskuntza, <br>Post-metodo. | Ikasleen arteko harremanak sortzea; ez bakarrik egiturak ezagutzea. Ikasleek hizkuntza ikasiko dute komunikatzeko beharragatik |
 
----
-
 ## Trebetasunak sekuentzia didaktikoen bidez…
 
-* ikasgela txokoetan antolatzen da
-* antolatzeko era ezberdinak: espazio eta denbora berean
-* bakarkako zein taldekako ariketa ezberdinak landu daitezke aldi berean
-* ikasleak autonomiaz aritzen dira
-* irakasle zein ikaskideei laguntza eskatzeko aukera dago
-* irakasleak ikasleak behatzeko aukera zabalagoa du
+* Ikasgela txokoetan antolatzen da
+* Antolatzeko era ezberdinak: espazio eta denbora berean
+* Bakarkako zein taldekako ariketa ezberdinak landu daitezke aldi berean
+* Ikasleak autonomiaz aritzen dira
+* Irakasle zein ikaskideei laguntza eskatzeko aukera dago
+* Irakasleak ikasleak behatzeko aukera zabalagoa du
 
 ---
 
@@ -300,8 +300,7 @@ Daniel Cassanyk sortutako baliabideak, ezagutu beharrekoak (eta goiko bideoetan 
 
 ### Gehiago jakiteko baliabide bibliografiko batzuk 
 
-Díaz Blanca, L. (2002). La Escritura: Modelos Explicativos e Implicaciones Didácticas. *Revista de Pedagogía*, *23*(67), 319–332. 
-Eskuragai http://www.scielo.org.ve/scielo.php?script=sci_arttext&pid=S0798-97922002000200007&lng=es&nrm=iso helbidean.
+Díaz Blanca, L. (2002). [La Escritura: Modelos Explicativos e Implicaciones Didácticas](http://www.scielo.org.ve/scielo.php?script=sci_arttext&pid=S0798-97922002000200007&lng=es&nrm=iso). *Revista de Pedagogía*, *23*(67), 319–332. 
 
 Ibarra, I. (2009, irailak 5). Konstruktibismoa, hizkuntza idatzia eta eskola. UPV/EHU. Berreskuratua https://ikasmaterialak.ehu.eus/hezkuntza/konstruktibismoa/Konstruktibismoa.pdf -(e)tik 
 
@@ -309,7 +308,8 @@ Ibarra, I. (2009, irailak 5). Konstruktibismoa, hizkuntza idatzia eta eskola. UP
 > Hizkuntza idatzia lantzerakoan jarraitzen diozuen ildoari jarraitzen diozuela, ondoko lerroetan datorrena  irakurtzera gonbidatzen zaituztet... eta ondoren, ERAIKI!
 
 Ulzurrun, A. D. de, Pinyol, N. F., Ràfols, R. F., Cardete, M. R. M., Rovira, D. R., Pujol, V. S., … Olivella, F. C. (2000). *El aprendizaje de la lectoescritura desde una perspectiva constructivista.* (M. D. M. B. COLET, Itzul.) (1. arg.). Bartzelona: Graó.
-UPV/EHUko liburutegian zenbait ale.
+
+  UPV/EHUko liburutegian zenbait ale.
 
 ### Oharra
 
