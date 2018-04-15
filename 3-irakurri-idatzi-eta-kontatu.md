@@ -314,6 +314,10 @@ Oinarrizko gaztelaniazko baliabide bat: http://leer.es/
 
 Madrilen Daniel Cassanyk leer.es-eko markoan emandako hitzaldia: Prácticas letradas contemporáneas, lehenengo zatia, [la perspectiva sociocultural](https://www.youtube.com/embed/lsHc3SWiWEQ "Bideoa hutsik, 10 min"), klasean ikusia behar genuke. Hitzaldia osorik eta beste elementu batzuk ere bai: [hemen](http://www.youtube.com/watch?v=lsHc3SWiWEQ&list=PLB91A13AEFDB0D9B0&index=3).
 
+### Sarrera egiteko
+
+Zuen hautu tekniko eta metodologikoak oinarritzeko, [hemendik](https://github.com/JuanAbasolo/HD/raw/03-gaia/05_hizkuntzen_irakaskuntzarako_metodoak.pdf) jaits dezakezuen dokumentua erabiltzea komeni da (gorde dokumentua).
+
 ### Baliabideak sortzeko…
 
 Eduteka, [Siete elementos esenciales de las Narraciones Digitales](http://eduteka.icesi.edu.co/articulos/NarracionesDigitales_Educause), ICESI (Cali, Kolombia) 
