@@ -1,9 +1,6 @@
 {
-    "plugins": ["mermaid-compat"],
-    "pluginsConfig": {
-      "mermaid-compat": {
-         "theme": "forest"
-      }
-    },
+  "plugins": ["mermaid-atom-mden"]
+},
+{
     "plugins": ["youtube"]
 }
