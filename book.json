@@ -1,4 +1,4 @@
 {
-  "plugins": ["mermaid-atom-mden"],
+    "plugins": ["mermaid-atom-mden"],
     "plugins": ["youtube"]
 }
