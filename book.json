@@ -1,4 +1,9 @@
 {
-    "plugins": ["mermaid"],
+    "plugins": ["mermaid-compat"],
+    "pluginsConfig": {
+      "mermaid-compat": {
+         "theme": "forest" // here to change the mermaid theme
+      }
+    }
     "plugins": ["youtube"]
 }
