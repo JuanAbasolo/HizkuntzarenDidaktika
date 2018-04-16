@@ -1,4 +1,4 @@
 {
-    "plugins": ["youtube"]
+    "plugins": ["youtube"],
     "plugins": ["mermaid-gb3"]
 }
