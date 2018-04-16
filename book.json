@@ -1,4 +1,3 @@
 {
-    "plugins": ["mermaid-atom-mden"],
-    "plugins": ["youtube"]
+    "plugins": ["mermaid-gb3","youtube"]
 }
