@@ -261,11 +261,11 @@ Vygotskyk eta Piagetek nabarmendu zuten 1965ean: ***Gizartearekiko elkarreragina
 
 Aztertu ezaugarriok:
 
-* [ ] Interdependentzia positiboa
-* [ ] Taldea eratzea
-* [ ] Bakoitzaren ardura
-* [ ] Gizarteko trebetasunak
-* [ ] Egituratzea
+- [ ] Interdependentzia positiboa
+- [ ] Taldea eratzea
+- [ ] Bakoitzaren ardura
+- [ ] Gizarteko trebetasunak
+- [ ] Egituratzea
 
 Orain bai: zuen lana aztertu eta sarrera polita idatzi egiozue.
 
