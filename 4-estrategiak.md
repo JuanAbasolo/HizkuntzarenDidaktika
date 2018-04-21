@@ -335,7 +335,7 @@ Oxford, 1989: 112
 
 Zuon proposamena komiki baten bidez aurkeztu behar duzue.
 
-Ebaluatzeko, errubrika bat erabiliko dugu, talde bakoitzak sortutakoa, taldeari berari ezarriko zaio.
+**Ebaluatzeko**, errubrika bat erabiliko dugu, talde bakoitzak sortutakoa, taldeari berari ezarriko zaio.
 
 ## Zenbait baliabide
 
