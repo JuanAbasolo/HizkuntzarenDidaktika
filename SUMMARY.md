@@ -6,4 +6,5 @@
 * [2 Hizkuntzaren Didaktika curriculumean](2-hizkuntzaren-didaktika-curriculumean.md)
 * [3 Irakurri, idatzi eta kontatu](3-irakurri-idatzi-eta-kontatu.md)
   * [3.1 Metodoez](4-metodoez.md)
+* [4 Estrategiak](4-estrategiak.md)
 

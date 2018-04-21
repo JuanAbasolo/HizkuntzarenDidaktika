@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1056.2188"
+   height="648.3125"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Irakaskuntza motibagarria.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1"
+   inkscape:export-filename="/home/juan/InSync/EHU/Maixo/Irakaskuntza motibagarria.png"
+   inkscape:export-xdpi="175"
+   inkscape:export-ydpi="175">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path4202"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path4184"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.8,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path4045"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path4063"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutL-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4202-5"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutL-74"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4202-1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutL-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4202-11"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="392.68464"
+     inkscape:cy="309.522"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="0,1"
+       position="741.91071,261.54853"
+       id="guide3972" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="167.37501,461.18558"
+       id="guide5470" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="345.66694,563.71606"
+       id="guide5472" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="889.05357,439.40568"
+       id="guide5474" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="693.33929,116.54853"
+       id="guide5476" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(117.625,-201.3125)">
+    <g
+       id="g3999"
+       transform="translate(1.5152311,-3.5864258)">
+      <rect
+         y="421.01685"
+         x="240.85561"
+         height="165.66502"
+         width="331.33005"
+         id="rect2982"
+         style="opacity:0.9623288;fill:#550000;stroke:#000000;stroke-width:3;stroke-miterlimit:1.45000005;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text2984"
+         y="489.36938"
+         x="406.38596"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:EHUSans;-inkscape-font-specification:EHUSans"
+           y="489.36938"
+           x="406.38596"
+           id="tspan2986"
+           sodipodi:role="line">Irakaskuntza</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:EHUSans;-inkscape-font-specification:EHUSans"
+           id="tspan2988"
+           y="539.36938"
+           x="406.38596"
+           sodipodi:role="line">motibagarria</tspan></text>
+    </g>
+    <g
+       id="g4005"
+       transform="translate(-1.5152255,0)">
+      <rect
+         style="opacity:0.9623288;fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:1.45000005;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3758"
+         width="331.33005"
+         height="165.66502"
+         x="243.88606"
+         y="202.8239" />
+      <text
+         xml:space="preserve"
+         style="font-size:22.79362679px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="257.50391"
+         y="234.16565"
+         id="text3760"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="257.50391"
+           y="234.16565"
+           id="tspan3764"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#800000;font-family:EHUSans;-inkscape-font-specification:EHUSans">Motibaziorako oinarrizko </tspan><tspan
+           id="tspan3797"
+           sodipodi:role="line"
+           x="257.50391"
+           y="262.65768"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#800000;font-family:EHUSans;-inkscape-font-specification:EHUSans">baldintzak sortzea</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:15.24014282px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="274.45187"
+         y="289.1835"
+         id="text3760-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="274.45187"
+           y="289.1835"
+           id="tspan3764-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"><tspan
+   style="font-weight:bold"
+   id="tspan5515">I</tspan>rakasleen portaera egokiak</tspan><tspan
+           id="tspan3791"
+           sodipodi:role="line"
+           x="274.45187"
+           y="308.23367"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"><tspan
+   style="font-weight:bold"
+   id="tspan5517">G</tspan>iro atsegin eta laguntzazkoa taldean</tspan><tspan
+           id="tspan3793"
+           sodipodi:role="line"
+           x="274.45187"
+           y="327.28387"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"><tspan
+   style="font-weight:bold"
+   id="tspan5519">B</tspan>atasuna ikasle taldean eta </tspan><tspan
+           id="tspan3795"
+           sodipodi:role="line"
+           x="274.45187"
+           y="346.33405"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans">talderako arau egokiak</tspan></text>
+    </g>
+    <g
+       id="g4016"
+       transform="translate(-1.5152255,0)">
+      <rect
+         y="619.08527"
+         x="244.1474"
+         height="228.78195"
+         width="330.80737"
+         id="rect3799"
+         style="opacity:0.9623288;fill:none;stroke:#000000;stroke-width:3.52268577;stroke-miterlimit:1.45000005;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3801"
+         y="650.16565"
+         x="251.55991"
+         style="font-size:22.79362679px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#800000;font-family:EHUSans;-inkscape-font-specification:EHUSans"
+           y="650.16565"
+           x="251.55991"
+           sodipodi:role="line"
+           id="tspan3805">Motibazioa elikatu eta zaindu</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3807"
+         y="688.90344"
+         x="250.03488"
+         style="font-size:14.8627491px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"
+           y="688.90344"
+           x="250.03488"
+           sodipodi:role="line"
+           id="tspan3815"><tspan
+   style="font-weight:bold"
+   id="tspan5521">I</tspan>kastea: kilikagarria eta jolasgarria bihurtu</tspan><tspan
+           id="tspan3828"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"
+           y="707.48187"
+           x="250.03488"
+           sodipodi:role="line"><tspan
+   style="font-weight:bold"
+   id="tspan5523">A</tspan>tazak modu motibagarrian aurkeztu</tspan><tspan
+           id="tspan3830"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"
+           y="726.0603"
+           x="250.03488"
+           sodipodi:role="line"><tspan
+   style="font-weight:bold"
+   id="tspan5525">I</tspan>kasle bakoitzaren helburuak ezarri</tspan><tspan
+           id="tspan3832"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"
+           y="744.63873"
+           x="250.03488"
+           sodipodi:role="line"><tspan
+   style="font-weight:bold"
+   id="tspan5527">I</tspan>kasleen autoestimua eta autokonfiantza hazi</tspan><tspan
+           id="tspan3834"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"
+           y="763.21716"
+           x="250.03488"
+           sodipodi:role="line"><tspan
+   style="font-weight:bold"
+   id="tspan5529">I</tspan>kasleei irudi sozial positiboa izaten uztea</tspan><tspan
+           id="tspan3836"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"
+           y="781.79565"
+           x="250.03488"
+           sodipodi:role="line"><tspan
+   style="font-weight:bold"
+   id="tspan5531">I</tspan>kasleei autonomia eman</tspan><tspan
+           id="tspan3838"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"
+           y="800.37408"
+           x="250.03488"
+           sodipodi:role="line"><tspan
+   style="font-weight:bold"
+   id="tspan5533">A</tspan>utomotibazio estrategiak bultzatu</tspan><tspan
+           id="tspan3840"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"
+           y="818.95251"
+           x="250.03488"
+           sodipodi:role="line"><tspan
+   style="font-weight:bold"
+   id="tspan5535">I</tspan>kasleen arteko lankidetza bultzatu</tspan></text>
+    </g>
+    <g
+       id="g3974"
+       transform="translate(0,16)">
+      <rect
+         style="opacity:0.9623288;fill:none;stroke:#000000;stroke-width:3.34141564;stroke-miterlimit:1.45000005;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3842"
+         width="330.98865"
+         height="205.72972"
+         x="-115.94324"
+         y="381.39807" />
+      <text
+         xml:space="preserve"
+         style="font-size:22.79362679px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="-108.59041"
+         y="410.48016"
+         id="text3844"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3846"
+           sodipodi:role="line"
+           x="-108.59041"
+           y="410.48016"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#800000;font-family:EHUSans;-inkscape-font-specification:EHUSans">Atzera begirako </tspan><tspan
+           id="tspan3866"
+           sodipodi:role="line"
+           x="-108.59041"
+           y="438.9722"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#800000;font-family:EHUSans;-inkscape-font-specification:EHUSans">autoebaluazio positiboa</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14.8627491px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="-108.9044"
+         y="463.21796"
+         id="text3848"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="-108.9044"
+           y="463.21796"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"
+           id="tspan3864"><tspan
+   style="font-weight:bold"
+   id="tspan5503">K</tspan>auza egozpen motibagarriak bultzatzea</tspan><tspan
+           id="tspan3903"
+           sodipodi:role="line"
+           x="-108.9044"
+           y="481.79639"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"><tspan
+   style="font-weight:bold"
+   id="tspan5505">F</tspan>eedback motibagarria ematea</tspan><tspan
+           id="tspan3905"
+           sodipodi:role="line"
+           x="-108.9044"
+           y="500.37482"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"><tspan
+   style="font-weight:bold"
+   id="tspan5507">I</tspan>kaslea pozago sentiaraztea</tspan><tspan
+           id="tspan3907"
+           sodipodi:role="line"
+           x="-108.9044"
+           y="518.95325"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"><tspan
+   style="font-weight:bold"
+   id="tspan5509">S</tspan>ariak eta notak modu motibagarrian eskaini</tspan></text>
+    </g>
+    <g
+       id="g3985"
+       transform="translate(0,16.021011)">
+      <rect
+         style="opacity:0.9623288;fill:none;stroke:#000000;stroke-width:3.34107852;stroke-miterlimit:1.45000005;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3842-4"
+         width="330.98898"
+         height="205.688"
+         x="605.93408"
+         y="381.39792" />
+      <text
+         xml:space="preserve"
+         style="font-size:22.79362679px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="613.28705"
+         y="410.48016"
+         id="text3844-3"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3846-7"
+           sodipodi:role="line"
+           x="613.28705"
+           y="410.48016"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#800000;font-family:EHUSans;-inkscape-font-specification:EHUSans">Hasierako motibazio </tspan><tspan
+           id="tspan3866-1"
+           sodipodi:role="line"
+           x="613.28705"
+           y="438.9722"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#800000;font-family:EHUSans;-inkscape-font-specification:EHUSans">orokorra sortzea</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14.8627491px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="612.97308"
+         y="463.21796"
+         id="text3848-2"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3907-1"
+           sodipodi:role="line"
+           x="612.97308"
+           y="463.21796"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"><tspan
+   style="font-weight:bold"
+   id="tspan5545">I</tspan>kasleek H2ri buruz dauzkaten jarrerak eta </tspan><tspan
+           id="tspan3960"
+           sodipodi:role="line"
+           x="612.97308"
+           y="481.79639"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans">atxikitzen dizkioten balioak hobetzea.</tspan><tspan
+           id="tspan3962"
+           sodipodi:role="line"
+           x="612.97308"
+           y="500.37482"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"><tspan
+   style="font-weight:bold"
+   id="tspan5543">I</tspan>kasleen arrakastarako itxaropenak haztea</tspan><tspan
+           id="tspan3964"
+           sodipodi:role="line"
+           x="612.97308"
+           y="518.95325"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"><tspan
+   style="font-weight:bold"
+   id="tspan5541">I</tspan>kasleak helburuetara bideratzea</tspan><tspan
+           id="tspan3966"
+           sodipodi:role="line"
+           x="612.97308"
+           y="537.53168"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"><tspan
+   style="font-weight:bold"
+   id="tspan5539">I</tspan>kasleentzat esanguratsuak diren materialak </tspan><tspan
+           id="tspan3970"
+           sodipodi:role="line"
+           x="612.97308"
+           y="556.11017"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans">erabiltzea</tspan><tspan
+           id="tspan3968"
+           sodipodi:role="line"
+           x="612.97308"
+           y="574.6886"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:EHUSans;-inkscape-font-specification:EHUSans"><tspan
+   style="font-weight:bold"
+   id="tspan5537">I</tspan>kasleengan uste errealistak sortzea</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#7c0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#EmptyTriangleOutL);display:inline"
+       d="m 49.750013,397.39807 c 0,-111.48913 0,-111.48913 191.972307,-111.48913"
+       id="path4034"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g3974"
+       inkscape:connection-start-point="d4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#7c0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#EmptyTriangleOutL);display:inline"
+       d="m 573.93456,285.90894 c 197.49401,0 197.49401,0 197.49401,111.22798"
+       id="path4034-1"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#7c0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#EmptyTriangleOutL);display:inline"
+       d="m 771.42857,603.30172 c 0,129.77475 0,129.77475 -195.71428,129.77475"
+       id="path4034-7"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#7c0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#EmptyTriangleOutL);display:inline"
+       d="m 241.79171,733.07647 c -192.041697,0 -192.041697,0 -192.041697,-128.0824"
+       id="path4034-70"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:0.9623288;fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:#7c0000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5478"
+       width="248.49753"
+       height="51.51778"
+       x="782.86823"
+       y="574.57135"
+       transform="translate(-117.625,201.3125)" />
+    <text
+       xml:space="preserve"
+       style="font-size:28.51830673px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="686.61377"
+       y="811.58691"
+       id="text5480"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5482"
+         x="686.61377"
+         y="811.58691"
+         style="fill:#ffffff">Dörnyei, 2003</tspan></text>
+  </g>
+</svg>
