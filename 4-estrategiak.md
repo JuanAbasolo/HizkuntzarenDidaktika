@@ -1,5 +1,7 @@
 # Hizkuntzen irakaskuntza estrategiak
 
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/JuanAbasolo/HD/04-gaia?grs=github&t=simple)
+
 Hizkuntzen ikaskuntzaren gainean hainbat zalantza eta galdera etortzen zaizkio irakasle zein ikasleari, askotan antzerako erantzuna izaten dutena
 
 **Irakasleenak**:
