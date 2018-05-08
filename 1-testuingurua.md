@@ -140,8 +140,6 @@ Gogoeta metalinguistikoa
 
 **Hizkuntza ulertzeko modua**-**Irakasteko modua**-**Metodologia ezberdinak**
 
-* Gramatika/itzulpenak
-
 * Gramatika/itzulpen metodoak
 
 * Eredu audiolinguala(egituren errepikapena, buruz ikasi\)
