@@ -1,4 +1,4 @@
-# Testuingurua
+# Testuingurua [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/JuanAbasolo/HD/01-gaia)
 
 Hizkuntza Didaktikaz aritu aurretik, hizkuntza, didaktika obejktua, alegia, inguratzen duten ezaugarriez jardun beharra dugu.
 
@@ -80,13 +80,13 @@ _Declaración Universal de Derechos Lingüísticos_
 
 Gaitasunak, jarduera komunikatiboak, mailak, deskribatu eta zehazten ditu helburuak, edukiak eta ebaluazio-irizpideen oinarri gisa.Europako Kontseiluak hartutako erabakiak dira.
 
-### Ikastetxeko _Hizkuntza Proiektua_ren bidez:
+### Ikastetxeko Hizkuntza Proiektuaren bidez:
 
 Ikastetxeak duen identitatea kontuan izanik, hizkuntzaren aldetiko erabakiak hartzen dira bai alor pedagogikoan bai instituzionalean.
 
 #### Adibideak:
 
-{% youtube src="https://www.youtube.com/watch?v=iFEjAhnv3ys" %}{% endyoutube %}
+{% youtube %}https://www.youtube.com/watch?v=iFEjAhnv3ys{% endyoutube %}
 
 [http://elblogdemiguelcalvillo.blogspot.com.es/2011/02/video-promocional-del-proyecto.html](http://elblogdemiguelcalvillo.blogspot.com.es/2011/02/video-promocional-del-proyecto.html)
 
@@ -100,7 +100,7 @@ Irakasleek ikasleekin egin beharreko **jarduerak **dira, eta betebeharretako bat
 
 Adibide bi ikusi ditzakegu hurrengo bideoan, bata Hego Afrikako errepublikan eta bestea Mazedoniako errepublikan.
 
-{% youtube src="https://youtu.be/nPUMvUBuX00" %}{% endyoutube %}
+{% youtube  %}https://youtu.be/nPUMvUBuX00{% endyoutube %}
 
 ## Irakaskuntzan
 

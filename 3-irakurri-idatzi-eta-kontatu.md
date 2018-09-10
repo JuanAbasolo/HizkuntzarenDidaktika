@@ -1,8 +1,6 @@
-# Irakurri, idatzi, kontatu
+# Irakurri, idatzi, kontatu [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/JuanAbasolo/HD/03-gaia?grs=github&t=simple)
 
 **Irakurtzea eta idaztea elkarrekin doaz**
-
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/JuanAbasolo/HD/03-gaia?grs=github&t=simple)
 
 Kapitulu honen hasieran irakurtze-ekintza nola ulertzen den ikusiko dugu, jarraian irakurketa prozesuaren analisia egingo dugu, irakurketaren irakaspeneri oratzeko. Azken horretan alfabetatzeaz, Hezkuntza Sisteman duen LHko kokapenaz eta irakurketaren lanketarako proposatzen diren estrategiez jardungo dugu. Irakurtzea eta idaztea lotzen dira hurrengo blokean, fokoa idazkuntzara eramanda. Azkenaurreko blokean kontaketaren garrantzia nabarmenduko dugu. Kapituluaren azken blokean egin beharreko zerrendatzen dira Heziberri2020 proiektuaren barruan kontuan izanbeharreko elementu batzuk, egin beharreko jarduera kokatzen hasteko. Amaieran gomendatzen diren baliabide batzuk eta kapituluko erreferentziak aurkituko dituzu.
 
@@ -105,7 +103,7 @@ Haur Hezkuntzako gela batean 3 urtetik 6 urtera arteko umeak daude elkarrekin, H
 
 ![](https://2.bp.blogspot.com/-N5cl93A8OHs/VyNdyKTU39I/AAAAAAAADHQ/GONzy_0K2rMXmRLQ3YlHDYdmCegQJkgvgCLcB/s400/00000001.jpg "lo egitea eta muinekakaz jolastea")
 
-4 urte eta hilabete
+4 urte eta hilabete "lo egitea eta muinekakaz jolastea"
 
 **LORAK BIE**
 
@@ -225,7 +223,7 @@ Horretarako proposamen didaktikoak aurkeztu zituen.
 
 Gaur egun, berriz,…
 
-{% youtube src="https://www.youtube.com/watch?v=lsHc3SWiWEQ" %}{% endyoutube %}
+{% youtube %}https://www.youtube.com/watch?v=lsHc3SWiWEQ{% endyoutube %}
 
 Prácticas letradas contemporáneas por Daniel Cassany: la perspectiva sociocultural (10 min).
 

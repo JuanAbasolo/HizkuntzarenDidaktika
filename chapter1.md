@@ -1,6 +1,6 @@
 # Ikasgaiaren gida
 
-Gida hau UPV/EHUko web orritik bertatik hartutakoa da, beraz, irakurri eta aztertuta baduzu, hurrengo pausura iragan.
+Gida hau UPV/EHUko web [orritik bertatik](https://www.ehu.eus/eu/lehen-hezkuntzako-gradua-bizkaia/kreditu-eta-irakasgaiak?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20180&p_ciclo=X&p_curso=3&p_cod_asignatura=25868) hartutakoa da, beraz, irakurri eta aztertuta baduzu, hurrengo pausura iragan.
 
 # Hizkuntzaren eta Literaturaren Didaktika - 25868
 
