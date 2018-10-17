@@ -87,7 +87,9 @@ Zentzua ematen diegu idatzizko zeinuei, eta **soinuen eta letren arteko harreman
 * Alfabetatze **finkatu**ko fasea:  
   7 urteen ingurukoa
   * Osotasuntzat ikasten dituzte hitzak, eta buruz irakurtzen dituzte.
-  * Lotura fonologikoek ere hartzen dute parte fase honetan.
+  * Lotura fonologikoek ere hartzen dute parte fase honetan[^EBAZ].
+
+[^EBAZ]: Euskarari dagokionenan Euskaltzaidiaren 87. araua, 1998koa, ezagutzea komeni da; eskola gehiegitan ez baita kontuan hartzen, nahiz eta euskara bizian erabiltzen diren ezaugarriak deskribatu.
   
 ##### Adibide batzuk: *Zer du gustoko?* ariketa HHn
 
@@ -380,6 +382,8 @@ Cassany, D., Luna, M., & Sanz, G. (2000). *Enseñar lengua* (6. arg.). Bartzelon
 
 Durkin, D. (1992). *Teaching Them to Read* (6. argitalpena). Boston: Pearson.
 
+Euskaltzaindia. (1998). Euskara batuaren ahoskera zaindua (EBAZ). *Euskera: Euskaltzaindiaren lan eta agiriak*, 43, 485–490.
+
 Eusko Jaurlaritzaren Legebiltzarra. (2015). 236/2015 Dekretua, abenduaren 22koa, Oinarrizko Hezkuntzaren curriculuma zehaztu eta Euskal Autonomia Erkidegoan ezartzen duena. *Euskal Herriko Agintaritzaren Aldizkaria, 2016ko urtarrilaren 15a*, *141*. Berreskuratua https://www.euskadi.eus/y22-bopv/eu/bopv2/datos/2016/01/1600141e.shtml  -(e)tik 
 
 Fons Esteve, M. (2004). *Leer y escribir para vivir: alfabetizacion inicial y uso real de la lengua escrita en el aula*. Bartzelona: Graó.
@@ -392,11 +396,16 @@ Mullis, I. V. ., & Martin, M. O. (Arg.). (2016). *PIRLS 2016. Marco de la evalua
 
 OECD. (2014). El programa PISA de la OCDE. Qué es y para qué sirve. OECD. Berreskuratua https://www.oecd.org/pisa/39730818.pdf  -tik 
 
+Oñederra, M. L., Elordui, A., Epelde, I., Etxeberria, P., Jauregi, O., & Salaberria, J. (2015). Euskaltzaindiaren Ahoskera batzordearen txostena (Ahoskerak axola du). *Euskera: Euskaltzaindiaren lan eta agiriak*, 60(2), 499–531.
+
 Ruiz, U., & Aldekoa, I. (2000). La comprensión lectora. In U. Ruiz (Arg.), *Didáctica de la segunda lengua en educación infantil y primaria* (or. 217–248). Madril: Síntesis.
 
 Solé, I. (1987). Las posibilidades de un modelo teórico para la enseñanza de la comprensión lectora. *Infancia y Aprendizaje*, *10*(39–40), 1–13. https://doi.org/10.1080/02103702.1987.10822170
 
 Solé, I. (1992). *Estrategías de lectura*. Bartzelona: Graó.
+
+
+
 
 
 
